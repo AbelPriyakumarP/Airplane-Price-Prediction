@@ -1,7 +1,5 @@
 # Airplane-Price-Prediction
 
-# Airplane Price Prediction
-
 ## Overview
 This project aims to predict the price of an airplane based on various features using machine learning techniques. The dataset used is `airplane_price_dataset.csv`, containing crucial information affecting airplane prices.
 
